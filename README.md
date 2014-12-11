@@ -2,6 +2,8 @@
 
 A playground for MatLab.
 
+![alt text][matlab-logo]
+
 ## MATLAB
 
 MATLAB (matrix laboratory) is a multi-paradigm numerical computing environment programming language. Developed by MathWorks, MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages, including C, C++, Java, Fortran and Python.
@@ -23,6 +25,7 @@ MATLAB is a commmercial system from MathWorks, but here are some FOSS alternativ
 
 Or [buy the software][buy]!
 
+[matlab-logo]: http://ingcivilocpvb.files.wordpress.com/2010/11/matlab.jpg "MATLAB"
 [basics]: http://www.math.utah.edu/~eyre/computing/matlab-intro/
 [mathworks-tutorials]: https://www.mathworks.com/academia/student_center/tutorials/
 [freemat]: http://freemat.sourceforge.net/
