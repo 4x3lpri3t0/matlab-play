@@ -8,7 +8,8 @@ MATLAB (matrix laboratory) is a multi-paradigm numerical computing environment p
 
 ## Resources
 
-[MathWorks Tutorials][mathworks-tutorials]
+* [MathWorks Tutorials][mathworks-tutorials]
+* [Scilab on Cloud][scilab-cloud] ([Alternative][scilab-hotcalcul])
 
 ## Open Source alternatives
 
@@ -16,7 +17,7 @@ MATLAB is a commmercial system from MathWorks, but here are some FOSS alternativ
 
 * [freemat][freemat]
 * [sagemath][sagemath]
-* [scilab][scilab] (here is the [github repo]: https://github.com/opencollab/scilab)
+* [scilab][scilab] (here is the [github repo][scilab-github])
 * [octave][octave]
 
 Or [buy the software][buy]!
@@ -25,5 +26,8 @@ Or [buy the software][buy]!
 [freemat]: http://freemat.sourceforge.net/
 [sagemath]: http://www.sagemath.org/
 [scilab]: http://www.scilab.org/
+[scilab-cloud]: http://cloud.scilab.in/
+[scilab-hotcalcul]: http://hotcalcul.com/on-line-calculator/scilab
+[scilab-github]: https://github.com/opencollab/scilab
 [octave]: http://www.gnu.org/software/octave/
 [buy]: https://www.mathworks.com/academia/student_version/
