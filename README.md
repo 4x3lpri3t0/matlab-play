@@ -11,6 +11,7 @@ MATLAB (matrix laboratory) is a multi-paradigm numerical computing environment p
 ## Resources
 
 * [Basics][basics]
+* [Tutorials Point][tutorials-point]
 * [MathWorks Tutorials][mathworks-tutorials]
 * [Scilab on Cloud][scilab-cloud] ([Alternative][scilab-hotcalcul])
 
@@ -27,6 +28,7 @@ Or [buy the software][buy]!
 
 [matlab-logo]: http://ingcivilocpvb.files.wordpress.com/2010/11/matlab.jpg "MATLAB"
 [basics]: http://www.math.utah.edu/~eyre/computing/matlab-intro/
+[tutorials-point]: http://www.tutorialspoint.com/matlab/index.htm
 [mathworks-tutorials]: https://www.mathworks.com/academia/student_center/tutorials/
 [freemat]: http://freemat.sourceforge.net/
 [sagemath]: http://www.sagemath.org/
