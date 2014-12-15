@@ -38,3 +38,7 @@ Or [buy the software][buy]!
 [scilab-github]: https://github.com/opencollab/scilab
 [octave]: http://www.gnu.org/software/octave/
 [buy]: https://www.mathworks.com/academia/student_version/
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Zedronar/matlab-play/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
